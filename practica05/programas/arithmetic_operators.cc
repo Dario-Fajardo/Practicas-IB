@@ -69,5 +69,4 @@ int main() {
     std::cout << first_double << " > " << second_double << std::endl;
     std::cout << second_double << " < " << first_double << std::endl;
   }   
-
 }
