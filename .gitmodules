@@ -1,3 +1,6 @@
 [submodule "practica06/practica06/ib-2022-2023-p06_alternatives_and_iterations-Dario-Fajardo"]
 	path = practica06/practica06/ib-2022-2023-p06_alternatives_and_iterations-Dario-Fajardo
 	url = git@github.com:Dario-Fajardo/Practicas-IB.git
+[submodule "practica06/ib-2022-2023-p06_alternatives_and_iterations-Dario-Fajardo"]
+	path = practica06/ib-2022-2023-p06_alternatives_and_iterations-Dario-Fajardo
+	url = git@github.com:IB-2022-2023/ib-2022-2023-p06_alternatives_and_iterations-Dario-Fajardo.git
