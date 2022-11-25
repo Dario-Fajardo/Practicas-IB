@@ -13,3 +13,6 @@
 [submodule "practica08-Funciones/ib-2022-2023-p08_functions-Dario-Fajardo"]
 	path = practica08-Funciones/ib-2022-2023-p08_functions-Dario-Fajardo
 	url = git@github.com:IB-2022-2023/ib-2022-2023-p08_functions-Dario-Fajardo.git
+[submodule "practica09/ib-2022-2023-p09_strings-vectors-Dario-Fajardo"]
+	path = practica09/ib-2022-2023-p09_strings-vectors-Dario-Fajardo
+	url = git@github.com:IB-2022-2023/ib-2022-2023-p09_strings-vectors-Dario-Fajardo.git
