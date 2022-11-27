@@ -16,3 +16,9 @@
 [submodule "practica09/ib-2022-2023-p09_strings-vectors-Dario-Fajardo"]
 	path = practica09/ib-2022-2023-p09_strings-vectors-Dario-Fajardo
 	url = git@github.com:IB-2022-2023/ib-2022-2023-p09_strings-vectors-Dario-Fajardo.git
+[submodule "practica06-AlternativasIteraciones/ib-2022-2023-p06_alternatives_and_iterations-Dario-Fajardo"]
+	path = practica06-AlternativasIteraciones/ib-2022-2023-p06_alternatives_and_iterations-Dario-Fajardo
+	url = git@github.com:IB-2022-2023/ib-2022-2023-p06_alternatives_and_iterations-Dario-Fajardo.git
+[submodule "practica07-Iteraciones/ib-2022-2023-p07_iterations-Dario-Fajardo"]
+	path = practica07-Iteraciones/ib-2022-2023-p07_iterations-Dario-Fajardo
+	url = git@github.com:IB-2022-2023/ib-2022-2023-p07_iterations-Dario-Fajardo.git
