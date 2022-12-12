@@ -25,3 +25,6 @@
 [submodule "practica09-StringArrayVector/ib-2022-2023-p09_strings-vectors-Dario-Fajardo"]
 	path = practica09-StringArrayVector/ib-2022-2023-p09_strings-vectors-Dario-Fajardo
 	url = git@github.com:IB-2022-2023/ib-2022-2023-p09_strings-vectors-Dario-Fajardo.git
+[submodule "practica10-Ficheros/ib-2022-2023-p10_files-Dario-Fajardo"]
+	path = practica10-Ficheros/ib-2022-2023-p10_files-Dario-Fajardo
+	url = git@github.com:IB-2022-2023/ib-2022-2023-p10_files-Dario-Fajardo.git
