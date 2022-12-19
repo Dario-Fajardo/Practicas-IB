@@ -28,3 +28,6 @@
 [submodule "practica10-Ficheros/ib-2022-2023-p10_files-Dario-Fajardo"]
 	path = practica10-Ficheros/ib-2022-2023-p10_files-Dario-Fajardo
 	url = git@github.com:IB-2022-2023/ib-2022-2023-p10_files-Dario-Fajardo.git
+[submodule "practica11-OOP/ib-2022-2023-p11_intro-oop-Dario-Fajardo"]
+	path = practica11-OOP/ib-2022-2023-p11_intro-oop-Dario-Fajardo
+	url = git@github.com:IB-2022-2023/ib-2022-2023-p11_intro-oop-Dario-Fajardo.git
